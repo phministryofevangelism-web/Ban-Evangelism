@@ -1,0 +1,8 @@
+{
+  "name": "Remix evangelism-system",
+  "description": "Imported from GitHub: nhnedevelopersph-lang/evangelism-system",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
